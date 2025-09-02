@@ -1,0 +1,11 @@
+# Update with your TestRail URL
+TESTRAIL_URL = "https://your-url.testrail.io"  
+# Update with your username
+TESTRAIL_EMAIL = "email@gmail.com"  
+# Update with your password
+TESTRAIL_PASSWORD = ""
+TESTRAIL_API_KEY=""
+
+# Project settings
+PROJECT_ID=1
+SUITE_ID=1
